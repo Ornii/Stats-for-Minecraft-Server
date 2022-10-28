@@ -229,35 +229,4 @@ for e in mcsdata1:
 fic.close()
 
 print("Done !")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
